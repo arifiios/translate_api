@@ -13,3 +13,15 @@ This project provides a simple API to translate text into any language you want.
 Install the required libraries:
 ```bash
 pip install flask requests user_agent
+```
+
+##Example Response
+```bash
+{
+  "status": "success",
+  "Real_Text": "hello",
+  "Translated_Text": "مرحبا",
+  "Time": 1730000000
+}
+
+```
