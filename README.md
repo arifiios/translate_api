@@ -15,7 +15,7 @@ Install the required libraries:
 pip install flask requests user_agent
 ```
 
-##Example Response
+## Example Response
 ```bash
 {
   "status": "success",
